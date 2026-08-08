@@ -1,4 +1,4 @@
-<!-- animated gradient banner -->
+﻿<!-- animated gradient banner -->
 <div align="center">
   <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='240'%20viewBox='0%200%201000%20240'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0'%20stop-color='%23ff6ec7'%3E%3Canimate%20attributeName='stop-color'%20values='%23ff6ec7;%238a2be2;%2343e8ff;%23ff6ec7'%20dur='9s'%20repeatCount='indefinite'/%3E%3C/stop%3E%3Cstop%20offset='1'%20stop-color='%238a2be2'%3E%3Canimate%20attributeName='stop-color'%20values='%238a2be2;%2343e8ff;%23ff6ec7;%238a2be2'%20dur='9s'%20repeatCount='indefinite'/%3E%3C/stop%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1000'%20height='240'%20fill='url(%23g)'/%3E%3Ccircle%20cx='120'%20cy='30'%20r='110'%20fill='%23ffffff'%20opacity='0.08'/%3E%3Ccircle%20cx='860'%20cy='200'%20r='150'%20fill='%23ffffff'%20opacity='0.08'/%3E%3Ccircle%20cx='520'%20cy='260'%20r='80'%20fill='%23ffffff'%20opacity='0.10'/%3E%3Ctext%20x='500'%20y='118'%20text-anchor='middle'%20font-family='Consolas,ui-monospace,monospace'%20font-size='72'%20font-weight='900'%20fill='%23ffffff'%20letter-spacing='6'%3EANGEL%3C/text%3E%3Ctext%20x='500'%20y='168'%20text-anchor='middle'%20font-family='Consolas,monospace'%20font-size='24'%20fill='%23ffffff'%20opacity='0.85'%20letter-spacing='4'%3E%40Eng-Angel%20%20%7C%20%20Full-Stack%20Developer%3C/text%3E%3C/svg%3E" width="100%" alt="Eng-Angel gradient banner" />
 </div>
@@ -27,7 +27,7 @@
 >
 > 🎯 Learning **.NET** & **Next.js** · Building with **Supabase**, **TypeScript** and **Tailwind CSS**
 > ⚡ Working style: **Vibe Coding** — start shipping, then make it bulletproof
-> 🕊️ I also serve as a **volunteer in a Coptic church**, bringing my love for tech into serving my community
+> 🕊️ I also serve as a **volunteer in a Coptic church**, bringing my love for tech into serving my church
 > 🔭 Currently crafting **كنيستي · Kanisaty**, a church management web app
 
 <br/>
@@ -40,7 +40,7 @@
 
 | | |
 |---|---|
-| #### 🏛️ **كنيستي · Kanisaty**<br/>*Church management web app — لإدارة شؤون الكنيسة بدعم عربي / RTL كامل.*<br/><br/>Coordinating members, services, events and more for the church I serve.<br/><br/>**Stack:** Next.js (App Router) · TypeScript · Supabase · Tailwind CSS<br/>**Highlights:** Full Arabic / RTL · Authorization · Realtime updates<br/>**Status:** 🟢 actively building — learning in public | <br/><br/>![Next.js](https://img.shields.io/badge/Next.js-23b556?style=flat-square&logo=nextdotjs&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| #### 🏛️ **كنيستيكن · Kanisaty**<br/>*Church management web app — لإدارة شؤون الكنيسة بدعم عربي / RTL كامل.*<br/><br/>Managing members, services, events and more for the church I serve.<br/><br/>**Stack:** Next.js (App Router) · TypeScript · Supabase · Tailwind CSS<br/>**Highlights:** Full Arabic / RTL · Authorization · Realtime updates<br/>**Status:** 🟢 actively building — learning in public | <br/><br/>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 
 <div align="center">
   <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='760'%20height='4'%20viewBox='0%200%20760%204'%3E%3ClinearGradient%20id='d'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3E%3Cstop%20offset='0'%20stop-color='%23ff6ec7'/%3E%3Cstop%20offset='0.5'%20stop-color='%238a2be2'/%3E%3Cstop%20offset='1'%20stop-color='%2343e8ff'/%3E%3C/linearGradient%3E%3Crect%20width='760'%20height='4'%20fill='url(%23d)'/%3E%3C/svg%3E" width="100%" alt="divider" />
@@ -51,8 +51,9 @@
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -71,19 +72,13 @@
 
 <div align="center">
 
-  [![Eng-Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-Angel&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/Eng-Angel)
+  [![Eng-Angel's GitHub stats](https://github-readme-stats.shion.dev/api?username=Eng-Angel&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/Eng-Angel)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Angel&layout=donut&theme=radical&hide_border=true)](https://github.com/Eng-Angel)
+  [![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Eng-Angel&layout=donut&theme=radical&hide_border=true)](https://github.com/Eng-Angel)
 
   <br/>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eng-Angel&theme=radical&hide_border=true)](https://github.com/Eng-Angel)
-
-</div>
-
-<div align="center">
-
-  [![Eng-Angel Trophy](https://github-profile-trophy.vercel.app/?username=Eng-Angel&theme=radical&column=6&margin-w=12&margin-h=12&no-frame=false)](https://github.com/Eng-Angel)
 
 </div>
 
