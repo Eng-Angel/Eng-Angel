@@ -1,187 +1,106 @@
-<div align="center">
-
-&nbsp;
-
-# `>_ ENG :: ANGEL`
-
-### ▍ Vibe Coder · ASP.NET Backend Developer · AI Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=2200&color=00FF41&center=true&vcenter=true&width=660&lines=Hi%2C%20I'm%20Angel;Vibe%20Coder%20---%20I%20build%20while%20I%20learn;ASP.NET%20Backend%20Developer%20(in%20progress);Learning%20Next.js%20(not%20finished%20yet);Exploring%20Machine%20Learning%20%26%20AI" alt="Typing status">
-
-```
-Eng-Angel@matrix:~$ whoami
-  ASP.NET Backend Developer ......... IN PROGRESS
-  Next.js ............................. LEARNING (build not finished yet)
-  Machine Learning & AI .............. EXPLORING
-  Lifestyle ............................ VIBE CODER (build while learning)
-```
-
-&nbsp;
-
-</div>
-
----
-
-## system__self
-
-```diff
-+ Public profile available. Welcome to my terminal. 
-+ I am a self-taught vibe engineer. If it compiles, it ships.
-+ Day to day: C# on the backend, experiments on the edges.
-- Baristas: none. Operator: one.
-```
-
-- `ASP.NET` back-ends that actually talk to databases.
-- `Next.js` apps being built the hard way — feature first, then learn the docs.
-- Random detours into `Machine Learning` to keep the gray matter moving.
-- Incredibly committed to finishing what I start. Eventually.
-
----
-
-## currently_learning
-
-```diff
-+ npx next dev
-+  > building App Router projects (fetches, actions, auth)
-+dotnet run
-+  > Web APIs, EF Core, middleware & clean architecture
-+ML 101
-+  > Python, pandas, tiny models, big questions
-```
-
-| Module              | Buffer      | Progress                   |
-|---------------------|-------------|----------------------------|
-| ASP.NET (C#)        | `aspnet`    | `██████████████░░░░░░` 70% |
-| Next.js + Supabase  | `next`      | `████████████░░░░░░░░░░` 58% |
-| Machine Learning    | `ml_ai`     | `█████░░░░░░░░░░░░░░░░░` 25% |
-
----
-
-## tech_stack
-
-```diff
-+ $ git clone https://github.com/Eng-Angel/Eng-Angel && npm install capacity
-```
-
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00FF41)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
-
-```diff
-# shells I feel at home in
-```
-
-![PowerShell](https://shields.io/badge/Shell-PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=00FF41)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00FF41)
-
----
-
-## git_stats
-
-```diff
-# curl st(ats).git.get("me.png").render()
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=140&section=header" width="100%" />
 
 <div align="center">
 
-  <a href="https://github.com/Eng-Angel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eng-Angel&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=D5F5DE&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Eng-Angel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Angel&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=D5F5DE&bg_color=0D1117" />
-  </a>
+## Angel · `@Eng-Angel`
 
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Angel&theme=black-ice&fire=00FF41&ring=00FF41&hide_border=true&hide_total_contributions=true" />
+### Full-Stack Developer · Vibe Coder ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=7AA2F7&center=true&vCenter=true&width=600&height=62&lines=Full-Stack+Developer;Learning+.NET+%26+Next.js;Vibe+Coder+%E2%9A%A1;Church+Tech+Volunteer" alt="Typing Animation" />
+
+<br/>
+
+I'm a self-taught developer learning **.NET** & **Next.js**.
+I build with **Supabase**, **TypeScript** and **Tailwind CSS** — under a *vibe coding* mantra: build first, master the docs along the way.
+I also serve as a volunteer in a **Coptic church**, turning my love for technology into useful tools for the church community. 🤍
 
 </div>
 
----
+<br>
 
-## projects
+<div align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='6'%20viewBox='0%200%20720%206'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3E%3Cstop%20offset='0%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3Cstop%20offset='50%25'%20stop-color='%237aa2f7'/%3E%3Cstop%20offset='100%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='720'%20height='6'%20fill='url(%23g)'/%3E%3C/svg%3E" width="720" height="6" alt="divider" />
+</div>
 
-```bash
-Eng-Angel@matrix:~$ ./projects --list
-```
+## 🚀 What I'm Building Now
 
-```diff
-+ [[ACTIVE]]  CHURCH MANAGEMENT SYSTEM
-+   stack   : Next.js · Supabase
-+   sync    : real-time
-+   about   : members, events, contributions, auth
-+   vibe    : built in public, shipped and learning
-+   status  : building (growing constant method)
-```
+### 🏛️ كنيستي · Kanisaty
+*Church management web app — لإدارة شؤون الكنيسة بدعم عربي / RTL كامل.*
 
-> Also brewing: micro-services, HA-homelab & whatever breaks once I touch it.
+A web app that manages church affairs — members, services, events and more — built for the community I serve.
 
----
+- **Stack:** Next.js (App Router) · TypeScript · Supabase · Tailwind CSS
+- **Highlights:** Full Arabic / RTL support · Auth · Realtime updates
+- **Status:** actively building, learning in public
 
-## snake_mode
+<br>
 
-```diff
-+ terminal_alias: python3 -m snakes.py | run every 24h
-```
+<div align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='6'%20viewBox='0%200%20720%206'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3E%3Cstop%20offset='0%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3Cstop%20offset='50%25'%20stop-color='%237aa2f7'/%3E%3Cstop%20offset='100%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='720'%20height='6'%20fill='url(%23g)'/%3E%3C/svg%3E" width="720" height="6" alt="divider" />
+</div>
+
+## 🛠️ Tech Stack
+
+![.NET](https://img.shields.io/badge/.NET-1a1b26?style=for-the-badge&logo=dotnet&logoColor=7aa2f7)
+![C#](https://img.shields.io/badge/C%23-1a1b26?style=for-the-badge&logo=csharp&logoColor=7dcfff)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5)
+![React](https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68)
+![Supabase](https://img.shields.io/badge/Supabase-1a1b26?style=for-the-badge&logo=supabase&logoColor=9ece6a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7dcfff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1b26?style=for-the-badge&logo=tailwindcss&logoColor=7dcfff)
+![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e)
+![Vercel](https://img.shields.io/badge/Vercel-1a1b26?style=for-the-badge&logo=vercel&logoColor=c0caf5)
+
+<br>
+
+<div align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='6'%20viewBox='0%200%20720%206'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3E%3Cstop%20offset='0%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3Cstop%20offset='50%25'%20stop-color='%237aa2f7'/%3E%3Cstop%20offset='100%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='720'%20height='6'%20fill='url(%23g)'/%3E%3C/svg%3E" width="720" height="6" alt="divider" />
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Commits snake (generated by GitHub Actions)](https://raw.githubusercontent.com/Eng-Angel/Eng-Angel/output/github-contribution-grid-snake-dark.svg)
+  [![Eng-Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-Angel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/Eng-Angel)
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Angel&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Eng-Angel)
+
+  <br>
+
+  [![Eng-Angel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eng-Angel&theme=tokyonight&hide_border=true)](https://github.com/Eng-Angel)
 
 </div>
-
----
-
-## system_status
-
-```diff
-uptime        ██████ up learnin forever
-CPU           ███████████████ AHPF w nice problems
-RAM           ██████████░░░░ breaking nothing (yet)
-ASP.NET       ██████████░░░░ IN PROGRESS
-Next.js       ██████░░░░░░░░ IN PROGRESS
-ML / AI       ██████░░░░░░░░ EXPLORING
-disk          ██████████░░░░ deleting 40,000 untracked files
-status        ██████ GREEN```
-```
-
----
-
-## developer_mode
-
-```diff
-angel@matrix:~$ sudo whoami
-+ root : the_angel (vibe coder edition)
-
-angel@matrix:~$ cat ./stack.conf
-+ "C#" "/ASP.NET/" "/C++/" "/Next.js/" "/Supabase/" "/Git/"
-
-angel@matrix:~$ ./watch /office_log
-+ building:church-mgmt ........ done
-+ learning:EF Core ........... done*
-+ sleeping:blind ................. pending
-*
-
-angel@matrix:~$^C  # break for coffee and short loops
-Seg $exit 0
-```
-
----
-
-## contact
-
-```diff
-> maintaining: Eng-Angel / Eng-Angel (this terminal)
-> comms       : GitHub issues, PR reviews, telepathy basic
-# Coffee-driven development is non-negotiable.
-```
 
 <div align="center">
-
-`┌────────────────────────────────────────────────────────────┐`
-`│  © 2026 Angel ¯ terminal says: >_ keep building, keep vibing   │`
-`└────────────────────────────────────────────────────────────┘`
-
+  <img src="https://raw.githubusercontent.com/Eng-Angel/Eng-Angel/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='6'%20viewBox='0%200%20720%206'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3E%3Cstop%20offset='0%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3Cstop%20offset='50%25'%20stop-color='%237aa2f7'/%3E%3Cstop%20offset='100%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='720'%20height='6'%20fill='url(%23g)'/%3E%3C/svg%3E" width="720" height="6" alt="divider" />
+</div>
+
+## 🌱 Currently Learning
+
+- **.NET** — advanced patterns: EF Core, Minimal APIs, Clean Architecture, performance & async
+- **Next.js** — advanced patterns: App Router, Server Components, Streaming, Caching, Auth
+- **Supabase** — going deeper with Realtime, Row Level Security & Postgres
+
+<br>
+
+<div align="center">
+  <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='6'%20viewBox='0%200%20720%206'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='0'%3E%3Cstop%20offset='0%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3Cstop%20offset='50%25'%20stop-color='%237aa2f7'/%3E%3Cstop%20offset='100%25'%20stop-color='%237aa2f7'%20stop-opacity='0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='720'%20height='6'%20fill='url(%23g)'/%3E%3C/svg%3E" width="720" height="6" alt="divider" />
+</div>
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/Eng-Angel)
+
+<sub>Placeholders: تحدّث روابط LinkedIn و Email من `your-username` و `your.email@example.com` لروابطك الحقيقية.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=140&section=footer" width="100%" />
